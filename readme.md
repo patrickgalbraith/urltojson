@@ -1,6 +1,6 @@
 # URL to JSON
 
-Displays and pretty prints JSON provided in URL.
+Displays and pretty prints JSON provided in URL. Useful for displaying full errors from Grafana dashboard links.
 
 ## Example
 
