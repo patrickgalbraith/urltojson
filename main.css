@@ -1,0 +1,29 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+html * {
+  box-sizing: inherit;
+}
+
+.sourcecode-wrapper {
+  padding: 20px;
+}
+
+#error-message {
+  display: block;
+  width: 100%;
+  background: #e74c3c;
+  color: white;
+  font-family: sans-serif;
+  padding: 18px 20px;
+  font-size: 16px;
+}
+
+pre[class*="language-"]:before,
+pre[class*="language-"]:after {
+  display: none;
+}
