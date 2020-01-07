@@ -2,6 +2,6 @@
 
 Displays and pretty prints JSON provided in URL.
 
-## Usage
+## Example
 
-To do...
+https://patrickgalbraith.github.io/urltojson/?json={%22test%22:%22yay%22}
